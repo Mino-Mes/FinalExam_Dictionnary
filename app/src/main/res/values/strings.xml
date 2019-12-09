@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FinalExam_Dictionnary</string>
+    <string name="define">Define</string>
+    <string name="french">French</string>
+    <string name="pos">Pos :</string>
+    <string name="description">Description :</string>
+    <string name="definition">Definition</string>
+    <string name="english">English :</string>
+    <string name="french1">French :</string>
+</resources>
